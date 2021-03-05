@@ -9,7 +9,7 @@
 </p>
 
 ## APIKEY & Author Packname sticker
-Buka file config.json dan paste apikey di YOUR_APIKEY
+Buka file config.json dan paste apikey di YOUR_APIKEY dan masukin nomer yang ingin dijadiin self
 - [VHTEAR](https://api.vhtear.com)
 - [Youtube-APIV3](https://www.youtube.com/watch?v=TE66McLMMEw)
 
