@@ -29,87 +29,89 @@ Buka file config.json dan paste apikey di YOUR_APIKEY
 | :-----------: | :--------------------------------: |
 |       ✅       | Sticker WM                        |
 |       ✅       | Sticker Trigger                   |
-|       ✅       | sticker wasted                   |
+|       ✅       | Sticker wasted                   |
 
 | Group |                     Feature                |
 | :------------: | :---------------------------------------------: |
-|       ✅        |  hidetag               |
-|       ✅        |  grup close atau open       |
-|       ✅        |  gcname          |
-|       ✅        |  gcdesk       |
-|       ✅        |  add              |
-|       ✅        |  kick              |
-|       ✅        |  tagall              |
-|       ✅        |  ownergc              |
-|       ✅        |  leave              |
-|       ✅        |  promote              |
-|       ✅        |  demote              |
+|       ✅        |  Hidetag               |
+|       ✅        |  Grup close atau open       |
+|       ✅        |  Gcname          |
+|       ✅        |  Gcdesk       |
+|       ✅        |  Add              |
+|       ✅        |  Kick              |
+|       ✅        |  Ownergc              |
+|       ✅        |  Leave              |
+|       ✅        |  Promote              |
+|       ✅        |  Demote              |
 
 | MEDIA |                     Feature                |
 | :------------: | :---------------------------------------------: |
-|       ✅        |  ytstalk              |
-|       ✅        |  tomp3              |
-|       ✅        |  brainly              |
-|       ✅        |  truth              |
-|       ✅        |  dare              |
-|       ✅        |  play              |
-|       ✅        |  pinterest              |
-|       ✅        |  tahta              |
-|       ✅        |  ssweb              |
-|       ✅        |  igstalk              |
-|       ✅        |  playstore              |
-|       ✅        |  infoalamat              |
-|       ✅        |  puisiimg              |
-|       ✅        |  tiktok              |
-|       ✅        |  toimg              |
+|       ✅        |  Ytstalk              |
+|       ✅        |  Tomp3              |
+|       ✅        |  Brainly              |
+|       ✅        |  Truth              |
+|       ✅        |  Dare              |
+|       ✅        |  Play              |
+|       ✅        |  Pinterest              |
+|       ✅        |  Tahta              |
+|       ✅        |  Ssweb              |
+|       ✅        |  Igstalk              |
+|       ✅        |  Playstore              |
+|       ✅        |  Infoalamat              |
+|       ✅        |  Puisiimg              |
+|       ✅        |  Tiktok              |
+|       ✅        |  Toimg              |
 
 | STORAGE |                     Feature                |
 | :------------: | :---------------------------------------------: |
-|       ✅        |  addsticker             |
-|       ✅        |  getsticker             |
-|       ✅        |  delsticker             |
-|       ✅        |  stickerlist             |
-|       ✅        |  addvn             |
-|       ✅        |  getvn             |
-|       ✅        |  delvn             |
-|       ✅        |  listvn             |
-|       ✅        |  addvideo             |
-|       ✅        |  getvideo             |
-|       ✅        |  delvideo             |
-|       ✅        |  listvideo             |
-|       ✅        |  addimage             |
-|       ✅        |  getimage             |
-|       ✅        |  delimage             |
-|       ✅        |  listimage             |
+|       ✅        |  Addsticker             |
+|       ✅        |  Getsticker             |
+|       ✅        |  Delsticker             |
+|       ✅        |  Stickerlist             |
+|       ✅        |  Addvn             |
+|       ✅        |  Getvn             |
+|       ✅        |  Delvn             |
+|       ✅        |  Listvn             |
+|       ✅        |  Addvideo             |
+|       ✅        |  Getvideo             |
+|       ✅        |  Delvideo             |
+|       ✅        |  Listvideo             |
+|       ✅        |  Addimage             |
+|       ✅        |  Getimage             |
+|       ✅        |  Delimage             |
+|       ✅        |  Listimage             |
 
 | ADVANCE |                     Feature                |
 | :------------: | :---------------------------------------------: |
-|       ✅        |  upstatus             |
-|       ✅        |  setpp             |
-|       ✅        |  clearall             |
-|       ✅        |  readallchat             |
-|       ✅        |  fakedeface             |
-|       ✅        |  setthumb             |
-|       ✅        |  antidelete group             |
-|       ✅        |  antidelete kontak             |
-|       ✅        |  return             |
-|       ✅        |  cr1 (fake reply grup)             |
-|       ✅        |  cr2 (fake reply private)             |
-|       ✅        |  runtime             |
-|       ✅        |  settarget             |
-|       ✅        |  term             |
-|       ✅        |  ping             |
-|       ✅        |  setreply             |
-|       ✅        |  setnumber             |
-|       ✅        |  info             |
-|       ✅        |  cekchat             |
+|       ✅        |  Upswteks        |
+|       ✅        |  Upswimage        |
+|       ✅        |  Upswvideo        |
+|       ✅        |  Afk Group        |
+|       ✅        |  Afk Chat        |
+|       ✅        |  Setpp             |
+|       ✅        |  Clearall             |
+|       ✅        |  Readallchat             |
+|       ✅        |  Fakedeface             |
+|       ✅        |  Setthumb             |
+|       ✅        |  Antidelete group             |
+|       ✅        |  Antidelete kontak             |
+|       ✅        |  Return             |
+|       ✅        |  Cr1 (fake reply grup)             |
+|       ✅        |  Cr2 (fake reply private)             |
+|       ✅        |  Runtime             |
+|       ✅        |  Settarget             |
+|       ✅        |  Term             |
+|       ✅        |  Ping             |
+|       ✅        |  Setreply             |
+|       ✅        |  Setnumber             |
+|       ✅        |  Cekchat             |
 
 | VOICE |                     Feature                |
 | :------------: | :---------------------------------------------: |
-|       ✅        |  slowmo             |
-|       ✅        |  bass             |
-|       ✅        |  tupai             |
-|       ✅        |  toptt             |
+|       ✅        |  Slowmo             |
+|       ✅        |  Bass             |
+|       ✅        |  Tupai             |
+|       ✅        |  Toptt             |
 
 | PENTEST |                     Feature                |
 | :------------: | :---------------------------------------------: |
@@ -118,7 +120,7 @@ Buka file config.json dan paste apikey di YOUR_APIKEY
 |       ✅        |  nmap             |
 
 
-## 🙏Special Thanks To
+## 🙏 Special Thanks To
 <ul>
 <li>https://github.com/adiwajshing/Baileys<br>
 <li>https://github.com/MhankBarBar<br>
