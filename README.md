@@ -13,7 +13,7 @@ Buka file config.json dan paste apikey di YOUR_APIKEY dan masukin nomer yang ing
 - [VHTEAR](https://api.vhtear.com)
 - [Youtube-APIV3](https://www.youtube.com/watch?v=TE66McLMMEw)
 
-### Installasi In TERMUX
+### Install In TERMUX
 
 ```bash
 > apt update && apt upgrade -y
