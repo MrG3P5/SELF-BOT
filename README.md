@@ -7,7 +7,7 @@
 <p align="center">
 <a href="https://github.com/MrG3P5"><img title="Author" src="https://img.shields.io/badge/Author-X MrG3P5-red.svg?style=for-the-badge&logo=github"></a>
 </p>
-
+ 
 ## APIKEY & Author Packname sticker
 Buka file config.json dan paste apikey di YOUR_APIKEY dan masukin nomer yang ingin dijadiin self
 - [VHTEAR](https://api.vhtear.com)
